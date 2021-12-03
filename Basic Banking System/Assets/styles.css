@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .wrapper{
@@ -82,4 +83,21 @@ header{
 .hero a:hover{
     background: #85bb65;
     color: #000;
+}
+
+.about {
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("Images/about.jpg");
+    height: 100vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: #fff;
+}
+
+.section-title{
+    position: relative;
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
 }
