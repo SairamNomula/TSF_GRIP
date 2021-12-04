@@ -95,6 +95,10 @@ header{
     color: #fff;
 }
 
+.about h1{
+    color: #85bb65;
+}
+
 .section-title{
     position: relative;
     font-size: 2rem;
