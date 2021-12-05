@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/78247889/144742916-de7f9895-6dec-4e04-9640-49ccb921c7b4.png)
 
 ![image](https://user-images.githubusercontent.com/78247889/144742933-ec1523af-01c6-44fa-a1ad-5cb6257522a9.png)
-# Preview: 
+<!-- # Preview:  -->
 ### Demo Video link:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h2>
