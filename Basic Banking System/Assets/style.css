@@ -46,7 +46,7 @@
     height: auto;
 }
 
-.self_info{
+.self{
   justify-content: space-around;
   padding: 0;
   text-align: center;
@@ -58,14 +58,14 @@
   
 .btn{
   font-family: 'Poppins', sans-serif;
-  background-color: white;
-  color: green;
+  background-color: #85bb65;
+  color: #000;
   padding: 15px 45px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  border: 2px solid indigo;
+  border: 2px solid #85bb65;
   box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
   

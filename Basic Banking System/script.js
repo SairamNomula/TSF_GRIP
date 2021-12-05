@@ -13,11 +13,11 @@ function perform_transaction(){
       document.getElementById("my_Balance").innerText = my_Balance
       document.getElementById(findUserBankAccount).innerHTML = finalAmount;
       alert(` Transaction Successful !!  
-      INR ${enterAmount} is successfully transferred  to ${enterName}@gmail.com.`)
+      USD ${enterAmount} is successfully transferred  to ${enterName}@gmail.com.`)
 
-      // transaction history 
+      // &copy; Sairam Nomula
       var createPTag = document.createElement("li");
-      var textNode = document.createTextNode(`INR ${enterAmount} is transferred to recepient with Email-id ${enterName}@gmail.com on ${Date()}.`);
+      var textNode = document.createTextNode(`USD ${enterAmount} is transferred to recepient with Email-id ${enterName}@gmail.com on ${Date()}.`);
       createPTag.appendChild(textNode);
       var element = document.getElementById("transaction-history-body");
       element.insertBefore(createPTag, element.firstChild);
