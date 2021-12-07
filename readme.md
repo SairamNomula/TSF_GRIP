@@ -10,7 +10,6 @@
     * JavaScript
     * Bootstrap
 
-
 <h2 align="center">Screenshots</h2>
 
 ![image](https://user-images.githubusercontent.com/78247889/144742816-5e973646-6677-4994-9a7a-0740b69cecf9.png)
@@ -22,5 +21,6 @@
 ![image](https://user-images.githubusercontent.com/78247889/144742933-ec1523af-01c6-44fa-a1ad-5cb6257522a9.png)
 <!-- # Preview:  -->
 ### Demo Video link:
+https://drive.google.com/drive/folders/1HL6naRF-9uFA3qjkjAaW1qVph8tdtWiQ?usp=sharing
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h2>
