@@ -4,15 +4,15 @@
 
 <h2 align="center">Basic Banking System</h2>
 
-<!-- ### Technologies used
+### Technologies used
     * HTML5
     * CSS
     * JavaScript
-    * Bootstrap -->
+    * Bootstrap
 
-<!-- ![image](https://user-images.githubusercontent.com/78247889/144742816-5e973646-6677-4994-9a7a-0740b69cecf9.png)
+![image](https://user-images.githubusercontent.com/78247889/144742816-5e973646-6677-4994-9a7a-0740b69cecf9.png)
 
-![image](https://user-images.githubusercontent.com/78247889/144742826-8e28cc4a-7bc6-4c16-9ae2-06890388ec0a.png) -->
+<!-- ![image](https://user-images.githubusercontent.com/78247889/144742826-8e28cc4a-7bc6-4c16-9ae2-06890388ec0a.png) -->
 
 ![image](https://user-images.githubusercontent.com/78247889/144742916-de7f9895-6dec-4e04-9640-49ccb921c7b4.png)
 
@@ -25,11 +25,12 @@ https://drive.google.com/drive/folders/1HL6naRF-9uFA3qjkjAaW1qVph8tdtWiQ?usp=sha
 
 <h2 align="center">Payment Gateway Integration</h2>
 
-<!-- ### Technologies used
+### Technologies used
     * HTML5
     * CSS
-    * JavaScript
-    * Bootstrap -->
+    * Bootstrap
+
+![image](https://user-images.githubusercontent.com/78247889/146329951-556b04c8-8c58-4371-9a1b-f123cea9ecc0.png)
 
 ![image](https://user-images.githubusercontent.com/78247889/145758065-1caaca63-3eec-4492-844a-24d42b1596b5.png)
 
